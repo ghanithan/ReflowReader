@@ -20,6 +20,14 @@
     <meta name="apple-mobile-web-app-status-bar" content="#db4938" />
     <meta name="theme-color" content="#db4938" />
 
+    <script src="js/epub.js"></script>
+
+    <script>
+      var book = ePub("sample/Around the World in 28 Languages.epub");
+      var rendition = book.renderTo("area", {width: 600, height: 400});
+      var displayed = rendition.display();
+    </script>
+
   </head>
   <body>
     <main>
@@ -36,6 +44,7 @@
         </h2>
 
       </div>
+      <div id="area"></div>
     </main>
     <script src="js/app.js"></script>
 
