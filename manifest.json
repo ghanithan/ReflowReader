@@ -34,6 +34,11 @@
         {
           "src":  "images/icons/endless-512px.png",
           "type": "image/png", "sizes": "512x512"
+        },
+        {
+          "src":  "images/icons/endless-512px-square.png",
+          "type": "image/png", "sizes": "512x512"
         }
       ]
   }
+  
