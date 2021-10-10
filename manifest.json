@@ -8,31 +8,31 @@
     "orientation": "portrait-primary",
     "icons": [
         {
-          "src": "/images/icons/endless-16px",
+          "src": "/images/icons/endless-16px.png",
           "type": "image/png", "sizes": "16x16"
         },
         {
-          "src":  "/images/icons/endless-24px",
+          "src":  "/images/icons/endless-24px.png",
           "type": "image/png", "sizes": "24x24"
         },
         {
-          "src":  "/images/icons/endless-32px",
+          "src":  "/images/icons/endless-32px.png",
           "type": "image/png","sizes": "32x32"
         },
         {
-          "src":  "/images/icons/endless-64px",
+          "src":  "/images/icons/endless-64px.png",
           "type": "image/png", "sizes": "64x64"
         },
         {
-          "src":  "/images/icons/endless-128px",
+          "src":  "/images/icons/endless-128px.png",
           "type": "image/png", "sizes": "128x128"
         },
         {
-          "src":  "/images/icons/endless-256px",
+          "src":  "/images/icons/endless-256px.png",
           "type": "image/png", "sizes": "256x256"
         },
         {
-          "src":  "/images/icons/endless-512px",
+          "src":  "/images/icons/endless-512px.png",
           "type": "image/png", "sizes": "512x512"
         }
       ]
