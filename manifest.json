@@ -5,5 +5,35 @@
     "display": "standalone",
     "background_color": "#fdfdfd",
     "theme_color": "#db4938",
-    "orientation": "portrait-primary"
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+          "src": "/images/icons/endless-16px",
+          "type": "image/png", "sizes": "16x16"
+        },
+        {
+          "src":  "/images/icons/endless-24px",
+          "type": "image/png", "sizes": "24x24"
+        },
+        {
+          "src":  "/images/icons/endless-32px",
+          "type": "image/png","sizes": "32x32"
+        },
+        {
+          "src":  "/images/icons/endless-64px",
+          "type": "image/png", "sizes": "64x64"
+        },
+        {
+          "src":  "/images/icons/endless-128px",
+          "type": "image/png", "sizes": "128x128"
+        },
+        {
+          "src":  "/images/icons/endless-256px",
+          "type": "image/png", "sizes": "256x256"
+        },
+        {
+          "src":  "/images/icons/endless-512px",
+          "type": "image/png", "sizes": "512x512"
+        }
+      ]
   }

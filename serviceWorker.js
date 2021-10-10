@@ -3,7 +3,8 @@ const assets = [
   "/",
   "/index.html",
   "/css/style.css",
-  "/js/app.js"
+  "/js/app.js",
+  "/images/endless.png"
 ]
 
 self.addEventListener("install", installEvent => {
