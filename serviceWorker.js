@@ -1,9 +1,9 @@
 const staticReflowReader = "reflow-reader-pwa-v1"
 const assets = [
-  "/",
-  "/index.html",
-  "/css/style.css",
-  "/js/app.js"
+  "/RelowReader",
+  "/RelowReader/index.html",
+  "/RelowReader/css/style.css",
+  "/RelowReader/js/app.js"
 ]
 
 self.addEventListener("install", installEvent => {

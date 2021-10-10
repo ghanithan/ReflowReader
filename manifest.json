@@ -1,7 +1,7 @@
 {
     "name": "Reflow Reader",
     "short_name": "Reflow Reader",
-    "start_url": "index.html",
+    "start_url": "RelowReader/index.html",
     "display": "standalone",
     "background_color": "#fdfdfd",
     "theme_color": "#db4938",
